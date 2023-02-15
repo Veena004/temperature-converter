@@ -1,0 +1,71 @@
+
+
+.fahrenheit{
+background-color:#FF7F50;
+padding-top: 2%;
+color: #fff;
+
+}
+
+.celsius{
+  padding-top:2%;
+   color: #FF7F50;
+}
+
+.celsius1{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.fahrenheitvalue{
+  padding-top: 5%;
+    padding-bottom: 5%;
+    background-color:#FF7F50;
+
+}
+
+.celsiusvalue{
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+input {
+  display: block;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 2em;
+  color: #f4a55a;
+  font-family: cursive, sans-serif;
+}
+
+
+.btn {
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: Georgia;
+  color: #000;
+  font-size: 20px;
+  background: #FF7F50;
+  padding: 10px 19px 10px 19px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background:  #FF4500;
+  text-decoration: none;
+}
+.button1{
+    margin-right: 3%;
+}
+.button2{
+  margin-left: 3%;
+}
+
+
+#footer {
+  text-align: center;
+   position: fixed;
+   width: 100%;
+   height: 60px;   /* Height of the footer */
+}
